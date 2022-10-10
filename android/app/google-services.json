@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907161960333",
+    "project_id": "cashapp-d3f42",
+    "storage_bucket": "cashapp-d3f42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907161960333:android:4c948f6ae0c7860ccf47c4",
+        "android_client_info": {
+          "package_name": "com.example.managment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907161960333-hpqp72jjn7rhd0sgd1bsfbtul3tnv841.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPPoYkU71Tjnma4Uuve3FtxQFw7NOwLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907161960333-hpqp72jjn7rhd0sgd1bsfbtul3tnv841.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

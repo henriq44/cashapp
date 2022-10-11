@@ -15,12 +15,9 @@ runApp(
     providers: [
       ChangeNotifierProvider(create: (context) => AuthService()),
     ],
+    child: MyApp(),
   )
 );
-
-
-
-
 }
 
 

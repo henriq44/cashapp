@@ -1,13 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
+import 'package:managment/main.dart';
 import 'package:managment/Screens/home.dart';
 import 'package:managment/Screens/login.dart';
 import 'package:managment/service/auth_service.dart';
 import 'package:provider/provider.dart';
 
 class AuthCheck extends StatefulWidget {
-  const AuthCheck({super.key});
+  const AuthCheck({Key? key}):super(key: key);
 
   @override
   State<AuthCheck> createState() => _AuthCheckState();

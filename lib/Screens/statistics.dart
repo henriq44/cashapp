@@ -24,7 +24,7 @@ class _StatisticsState extends State<Statistics> {
                 children: [
                   SizedBox(height: 20),
                   Text(
-                    'Statistics',
+                    'Estatísticas',
                     style: TextStyle(
                       color: Colors.black,
                       fontSize: 20,
@@ -86,7 +86,7 @@ class _StatisticsState extends State<Statistics> {
                             mainAxisAlignment: MainAxisAlignment.spaceAround,
                             children: [
                               Text(
-                                'Expense',
+                                'Gasto',
                                 style: TextStyle(
                                     color: Colors.grey,
                                     fontSize: 16,
@@ -118,7 +118,7 @@ class _StatisticsState extends State<Statistics> {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: [
                         Text(
-                          'Top Spending',
+                          'Maior Gasto',
                           style: TextStyle(
                               color: Colors.black,
                               fontSize: 16,

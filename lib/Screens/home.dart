@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
                   Text(
-                    'Transactions History',
+                    'Histórico de transações',
                     style: TextStyle(
                       fontWeight: FontWeight.w600,
                       fontSize: 19,
@@ -28,7 +28,7 @@ class Home extends StatelessWidget {
                     ),
                   ),
                   Text(
-                    'See all',
+                    'Ver Tudo',
                     style: TextStyle(
                       fontWeight: FontWeight.w600,
                       fontSize: 15,
